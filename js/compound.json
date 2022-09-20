@@ -1,0 +1,28 @@
+{
+    "0":{
+        "barcode_value":0,
+        "model_name":"road",
+        "model_url":"https://raw.githubusercontent.com/anshikasoni123/models/main/360_F_137541802_DW3kJwikreBE4pV8e6v0CDW04yvWBmwF.jpg",
+        "position": {"x":0,"y":0,"z":0},
+        "rotation": {"x":-90,"y":0,"z":0},
+        "color":"#794458",
+        "width":19,
+        "height":15
+    },
+    "1":{
+        "barcode_value":1,
+        "model_name":"building",
+        "model_url":"https://raw.githubusercontent.com/anshikasoni123/models/main/ccity_building_set_1/scene.gltf",
+        "position": {"x":0,"y":-2.2,"z":0},
+        "rotation": {"x":0,"y":-90,"z":0},
+        "scale": {"x":0.05,"y":0.05,"z":0.05}
+    },
+    "2":{
+        "barcode_value":2,
+        "model_name":"car",
+        "model_url":"https://raw.githubusercontent.com/anshikasoni123/models/main/city_compact_95_-_low_poly_model/scene.gltf",
+        "position": {"x":0,"y":-2.2,"z":0},
+        "rotation": {"x":0,"y":-90,"z":0},
+        "scale": {"x":0.5,"y":0.5,"z":0.5}
+    }
+}
